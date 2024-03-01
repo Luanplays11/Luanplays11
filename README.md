@@ -1,7 +1,8 @@
 ### Hi, I'm Luan Souza 
 
 ### 💫 About Me:
-- 🔭 I’m currently working as a builder<br>- 🌱 I’m currently learning java<br>- 👯 I’m looking to collaborate on technology companies<br>- 🤔 I’m looking for help with kotlin<br>- 📫 How to reach me: luansouza70690@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I sleep 4 hours a day
+
+  -🔭 I’m currently working as a builder<br>- 🌱 I’m currently learning java<br>- 👯 I’m looking to collaborate on technology companies<br>- 🤔 I’m looking for help with kotlin<br>- 📫 How to reach me: luansouza70690@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I sleep 4 hours a day
 
 
 

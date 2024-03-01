@@ -1,7 +1,11 @@
-### Hi,I'm Luan Souza 
+## Hi, I'm Luan Souza 
 
 # 💫 About Me:
 - 🔭 I’m currently working as a builder<br>- 🌱 I’m currently learning java<br>- 👯 I’m looking to collaborate on technology companies<br>- 🤔 I’m looking for help with kotlin<br>- 📫 How to reach me: luansouza70690@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I sleep 4 hours a day
+
+
+
+
 
 
 ## 🌐 Socials:
@@ -12,9 +16,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luanplays11&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luanplays11&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanplays11&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Luanplays11&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img width="100%" align="right" src="https://cdna.artstation.com/p/assets/images/images/012/549/212/original/alvaro-g-a-b2.gif?1535362754">
